@@ -6,10 +6,10 @@
 /*
   Plugin Name: Kết Quả Xổ Số
   Plugin URI: http://www.xoso.com
-  Description: Hiển thị kết quả Xổ Số.
-  Author: hongchuyen
+  Description: Plugin giúp bạn chèn kết quả Xổ Số từ xoso.com vào trang web cực kỳ dễ dàng.
+  Author: baby2j
   Version: 1.0
-  Author URI: http://www.xoso.com
+  Author URI: http://profiles.wordpress.org/baby2j
   License: GNU/GPL
  */
 
